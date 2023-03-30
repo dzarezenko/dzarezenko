@@ -1,9 +1,9 @@
 ```
 Dmytro Zarezenko / dzarezenko / dmytro.near
 
-         Work: ElephantsLab, CTO
-               OctoGamex, CTO
-               Ownity, CTO
+         Work: ElephantsLab, CTO (https://elephantslab.com/)
+               OctoGamex, CTO (https://octogamex.com/)
+               Ownity, CTO (https://ownity.io/)
        Github: dzarezenko
       Twitter: @dzarezenko
      LinkedIn: linkedin.com/in/dzarezenko
